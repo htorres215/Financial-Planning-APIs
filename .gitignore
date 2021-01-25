@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Quandl_API_Key="SyC8x92SxSCt7J_mcdNA"
+Apalca_API_Key="PKXPXL0IJQOVQ8Y6MIYD"
+Apalca_Secret_Key="Q6m5lk2dLWjA1y5KTpYWUROjvzwuuysRdWTNOQid"
